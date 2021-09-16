@@ -8,6 +8,14 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+div#box{
+  width: 100%;
+}
+
+img#image {
+  float: right;
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
@@ -82,7 +90,6 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   width: 120px;
   border: 8px solid #2c2f3f;
-  border-radius: 50px;
 }
 
 #header .profile h1 {
