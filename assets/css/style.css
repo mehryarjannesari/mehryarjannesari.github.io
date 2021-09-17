@@ -13,6 +13,14 @@
   width: 80px;
   height: 50px;
   background-size: contain;
+  object-fit: cover;
+}
+.project-image-box {
+  float: right;
+  width: 200px;
+  height: 200px;
+  background-color: lightgreen;
+  padding: 10px;
 }
 
 body {
