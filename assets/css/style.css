@@ -8,11 +8,6 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-.project-image-small {
-  float: right;
-  width:140px;
-  object-fit: contain;
-}
 
 .project-image {
   float: right;
@@ -20,9 +15,22 @@
   object-fit: contain;
 }
 
+.project-image-small {
+  float: right;
+  width:140px;
+  object-fit: contain;
+}
+
+.project-image-small-small {
+  float: right;
+  width:70px;
+  object-fit: contain;
+}
+
 .project-image-box {
   float: right;
   width: 280px;
+  height: 280px;
 }
 
 .col-lg-6 {
