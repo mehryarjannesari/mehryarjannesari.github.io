@@ -12,6 +12,7 @@
 .project-image {
   float: right;
   width:280px;
+  height: 120px;
   object-fit: contain;
 }
 
